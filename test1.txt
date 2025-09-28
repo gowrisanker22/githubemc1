@@ -10,3 +10,8 @@ git commit -m "test3.txt file created"
 
 4. push the file
 git push origin main
+
+5. same 2,3 and 4 steps for deleting the file
+
+6. if we add new file in github then want to show that file in vs code, then use
+git pull
