@@ -20,7 +20,8 @@ git pull
 i) git init --> to add git in that folder
 ii) git add . --> this will add all the file inside the folder to the repository.
 iii) git commit -m "##########" --> this will commit the files 
-iv) git branch --> this is used to check the branch(by default it will in master)
-v) git branch -m main --> this will change the branch to main
-vi) git push origin main --> this will push into the main branch
-vii) git checkout branchname --> this will change the branch
+iv) git branch -a --> is used to see the available branches
+v) git branch --> this is used to check the current branch(by default it will in master)
+vi) git branch -m main --> this will change the branch to main
+vii) git push origin main --> this will push into the main branch
+viii) git checkout branchname --> this will change the branch
